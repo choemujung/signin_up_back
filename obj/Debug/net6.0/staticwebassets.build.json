@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j0m0yyJBqZWcfDea3F9hvSlT4ONMdkEHcZdTDIQjRYc=",
+  "Source": "signin_signup_backend",
+  "BasePath": "_content/signin_signup_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
